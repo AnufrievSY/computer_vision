@@ -1,0 +1,5 @@
+C:\Users\Пользователь\Downloads\my_cascade\train_image\negative\img_1.jpg
+C:\Users\Пользователь\Downloads\my_cascade\train_image\negative\img_2.jpg
+C:\Users\Пользователь\Downloads\my_cascade\train_image\negative\img_3.jpg
+C:\Users\Пользователь\Downloads\my_cascade\train_image\negative\img_4.jpg
+C:\Users\Пользователь\Downloads\my_cascade\train_image\negative\img_5.jpg

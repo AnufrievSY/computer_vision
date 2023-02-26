@@ -1,0 +1,10 @@
+positive\img_1.jpg 1 409 67 189 242
+positive\img_10.jpg 1 645 202 200 160
+positive\img_2.jpg 1 921 101 153 210
+positive\img_3.jpg 1 1093 92 178 218
+positive\img_4.jpg 1 985 521 220 167
+positive\img_5.jpg 1 799 473 348 205
+positive\img_6.jpg 1 513 390 144 131
+positive\img_7.jpg 1 439 332 142 111
+positive\img_8.jpg 1 296 403 141 155
+positive\img_9.jpg 1 262 557 211 115
